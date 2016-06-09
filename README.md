@@ -1,1 +1,4 @@
-React start project
+React start project.
+
+npm install
+npm start
