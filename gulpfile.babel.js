@@ -54,7 +54,6 @@ gulp.task('build', (cb) => {
 });
 
 gulp.task('clean', () => {
-  // TODO move path to config
   return del(`./${cfg.dst}`);
 });
 
